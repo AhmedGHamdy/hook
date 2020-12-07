@@ -8,11 +8,3 @@ index.html - The Index document for the website.
 /img - The background image file for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
-???????????smoke??????
-
-ATW TEST SERER
-ATW TEST 2
-ATW TEST 3
-ATW TEST 4 FUCK
-ATW TEST 5 FUCK ]
-random repo script
